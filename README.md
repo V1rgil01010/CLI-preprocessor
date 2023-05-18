@@ -40,5 +40,3 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Implementing GUI of this project.
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
-
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
